@@ -29,7 +29,7 @@ class Model {
         $objects = [];
         $result = static::getResultSetFromSelect($filters = [], $columns);
         if($result) {
-            //vai dizer ual a classe que chamou a função get
+            //vai retornar a classe que chamou a função get
             $class = get_called_class(); 
             while($row = $result->fetch_assoc()) {
                 array_push($objects, new $class($row));
