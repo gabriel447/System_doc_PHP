@@ -27,7 +27,7 @@
                         placeholder="Informe o e-mail" autofocus>
                 </div>
                 <div class="form-group">
-                    <label for="password">E-mail</label>
+                    <label for="password">Senha</label>
                     <input type="password" id="password" name="password" 
                         class="form-control"
                         placeholder="Informe a senha">
