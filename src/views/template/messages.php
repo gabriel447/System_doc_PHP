@@ -7,8 +7,10 @@ if($exception) {
 }
 ?>
 
-<?php if($message): ?>
+<?php if(isset($message)){?>
+
     <div class="my-3 alert alert-danger" role="alert">
         <?= $message['message'] ?>
     </div>
-<?php endif ?>
+    
+<?php } ?>
