@@ -1,5 +1,5 @@
 <aside class="sidebar">
-    <nav class="menu mt-3">
+    <nav class="menu">
         <ul class="nav-list">
             <li class="nav-item">
                 <a href="day_records.php">
