@@ -1,7 +1,8 @@
 <footer class="footer">
     <span>Desenvolvido com</span>
-    <span><i class="icofont-heart text-danger mx-1"></i></span>
-    <span>por Gab<span class="text-danger">ri</span>el</span>
+    <span><i class="icofont-heart text-danger"></i></span>
+    <span>por @<span class="text-danger">gabeecwb</span>.</span>
 </footer>
+<script src="assets/js/app.js"></script>
 </body>
 </html>
